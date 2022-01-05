@@ -1,0 +1,3 @@
+n Git you can merge several commits into one with the powerful interactive rebase. It's a handy tool I use quite often; I usually tidy up my working space by grouping together several small intermediate commits into a single lump to push upstream.
+
+To combine 2 commits i.e. C2 and C3 we uses git rebase --interactive HEAD~[N] where N is the number of commits we want to combine. So in our case N = 2 and HEAD must be on C2 for combining 2 commits.
