@@ -1,4 +1,4 @@
-Name: Poojan M Naik
-Age: 21
-College : D.Y Patil College of Engineering
+name: Poojan M Naik
+age : 21
 email id: poojannaik88@gmail.com
+
